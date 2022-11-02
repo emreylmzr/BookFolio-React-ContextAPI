@@ -6,7 +6,7 @@
 
 ### Light Theme
 
-![Screenshot1](https://i.hizliresim.com/8pts8ay.jpg)
+![Screenshot1](https://i.hizliresim.com/nku3iww.jpg)
 
 ### Dark Theme
 
