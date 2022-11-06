@@ -1,6 +1,6 @@
 ## Arin Yazılım'ın Rehberliğinde Hazırladığım React "BookFolio Projesi"
 
-[Arin Yazılım Youtube Kanalı]("https://www.youtube.com/c/ArinYazilim")
+[Arin Yazılım Youtube Kanalı](https://www.youtube.com/c/ArinYazilim)
 
 
 
